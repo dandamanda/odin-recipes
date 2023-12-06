@@ -1,1 +1,1 @@
-The First TOP Project in the foundations course to test HTML Knowledge. Builds a basic recipe website.
+The first project in The Odin Project, uses various basic HTML commands and git processes.
