@@ -5,7 +5,9 @@
     font-size: larger;
 }
 
-h1 {
+h1,
+h2,
+h3 {
     background-color: brown;
     text-align: center;
     color: white;
