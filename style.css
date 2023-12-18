@@ -6,11 +6,12 @@
 h1 {
     background-color: brown;
     text-align: center;
+    color: white;
 }
 
 #links {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
     color: brown;
-    text-align: justify;
+    text-align: center;
 }
