@@ -2,6 +2,7 @@ ul {
     border: 2px solid #987554;
     margin: 0 auto;
 }
+
 .body {
     color: brown;
     background-color: bisque;
@@ -21,7 +22,7 @@ h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: xx-large;
     color: brown;
-    text-align:justify;
+    text-align: justify;
 }
 
 img {
