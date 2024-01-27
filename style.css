@@ -1,12 +1,7 @@
-ul {
-    border: 2px solid #987554;
-    margin: 0 auto;
-}
-
 .body {
     color: brown;
     background-color: bisque;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Tahoma, sans-serif;
     font-size: larger;
 }
 
@@ -15,17 +10,30 @@ h2,
 h3 {
     background-color: brown;
     text-align: center;
+    font-style: italic;
     color: white;
+    text-decoration: double;
+    
+}
+
+.heading {
+  text-decoration-line: underline;
+  text-decoration-color: wheat;
+  text-decoration-thickness: 2px;
+  text-decoration-style:double;
+  text-transform: uppercase;
 }
 
 #links {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: xx-large;
     color: brown;
-    text-align: justify;
+    text-align: center;
+    border: 4px dashed #987554;
+    border-radius: 10px;
 }
 
-img {
-    width: 300px;
-    height: 300px;
+.center {
+    display: block;
+    margin: 0 auto;
 }
